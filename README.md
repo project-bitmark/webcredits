@@ -1,6 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/webcredits/webcredits.png?label=ready&title=Ready)](https://waffle.io/webcredits/webcredits)
 
-webcredits
+bitmark
 ==========
 
 Webcredits is a library for creating decentralized ledgers and payments on the
@@ -8,7 +8,7 @@ web.
 
 # Installation
 
-    npm install -g webcredits
+    npm install -g bitmark 
 
 # Setup
 

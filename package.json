@@ -1,14 +1,14 @@
 {
-  "name": "webcredits",
+  "name": "bitmark",
   "version": "0.0.53",
-  "description": "webcredits",
+  "description": "bitmark",
   "main": "lib/webcredits.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha ./test/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webcredits/webcredits.git"
+    "url": "https://github.com/project-bitmark/webcredits.git"
   },
   "keywords": [
     "webcredits",
